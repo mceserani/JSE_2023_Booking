@@ -1,0 +1,23 @@
+{
+  "name": "jse_2023_booking",
+  "version": "1.0.0",
+  "description": "Gestione di un sistema di prenotazioni di biglietti per partecipare a eventi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mceserani/JSE_2023_Booking.git"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/JSE_2023_Booking/issues"
+  },
+  "homepage": "https://github.com/mceserani/JSE_2023_Booking#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "type": "module"
+}
